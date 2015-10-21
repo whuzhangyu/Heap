@@ -12,7 +12,7 @@ void Heapify(vector<int>& data);
 void PopMin(vector<int>& heap);
 void Insert(vector<int>& heap, int key);
 
-// this is modified at OSU
+// this is OSU branch
 
 int main()
 {
